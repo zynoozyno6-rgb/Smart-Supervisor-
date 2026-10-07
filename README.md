@@ -1,2 +1,2 @@
 # Smart-Supervisor-
-Smart Clinical Training Management Platform
+Smart Clinical Training Management Platform.
